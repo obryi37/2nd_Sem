@@ -1,0 +1,16 @@
+{
+  "name": "msvr_pa2_v4",
+  "version": "0.0.1",
+  "description": "practical assignment 2 for methods of synthesis of virtual reality. Making tangible device from smartphone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "obryi37",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-sanitizer": "^1.0.6",
+    "socket.io": "^4.6.1"
+  }
+}
